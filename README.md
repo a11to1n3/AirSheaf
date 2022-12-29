@@ -10,6 +10,7 @@ conda env create -f airsheaf.yml
 ## Contents
 This repo contains the Python implementation of a generic sheaf as well as the implementation of a specific sensor network constructed in the accompanied article along with the three examples. The following is the structure of this repo:
 
+```
 root
 ├── data
 │   └── README.md
@@ -24,7 +25,8 @@ root
 ├── __init__.py
 ├── airsheaf.yml
 ├── LICENSE
-├── README.md
+└── README.md
+```
 
 ## How to cite?
 ~~~bibtex
