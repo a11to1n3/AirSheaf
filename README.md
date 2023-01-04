@@ -30,9 +30,9 @@ root
 
 ## How to cite?
 ~~~bibtex
-@article{pham2022sheafair,
+@article{pham2022sheaf,
   title={Sheaf-theoretic self-filtering network of low-cost sensors for local air quality monitoring: A causal approach},
-  author={Pham, Anh-Duy and Le, Chuong D and Pham, Hoang V and Tran, Thinh G and Vo, Dat T and Tran, Chau L and Le, An D and Vo, Hien B},
-  journal={},
+  author={Pham, Anh-Duy and Le, Chuong Dinh and Pham, Hoang Viet and Tran, Thinh Gia and Vo, Dat Thanh and Tran, Chau Long and Le, An Dinh and Vo, Hien Bich},
+  journal={arXiv preprint arXiv:2212.14353},
   year={2022}
 }
